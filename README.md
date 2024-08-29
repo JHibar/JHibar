@@ -21,3 +21,8 @@ My love for technology and computers has brought me to the world of Cybersecurit
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+## Projects
+- Detection Lab
+- Active Directory Lab
+- SOC Automation Project
