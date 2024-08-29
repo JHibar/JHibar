@@ -6,8 +6,8 @@
 
 <h2> Certifications</h2>
 
-- [Google Cybersecurity Professional]
-- [CompTIA Security+]
+- [Google Cybersecurity Professional](link)
+- [CompTIA Security+](link)
 
 <h2> 🤳 Connect with me:</h2>
 
