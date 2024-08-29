@@ -1,16 +1,23 @@
-<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-hibar/">Cybersecurity Professional</a>
+# Hello, I'm John
+<a href="https://linkedin.com/in/john-hibar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I am a U.S. Air Force veteran that is making the career change to the world of IT and Cybersecurity. I have a profound interest in all things computers and am working on honing my skills in technology.
 
-- [Active Directory Home Lab](https://github.com/JHibar/ActiveDirectory)
+## Objective
 
-<h2> Certifications</h2>
+My love for technology and computers has brought me to the world of Cybersecurity. I would love to become a Security Operations Center (SOC) Tier 1 Anaylst and eventually move into the world of Penetration Testing and Ethical Hacking. The objective here is to put some skills and experience that I have picked up on display.
 
-- [Google Cybersecurity Professional](link)
-- [CompTIA Security+](link)
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| TBD                                          | TBD|
+| TBD                                          | TBD|
+| TBD                                          | TBD|
+| TBD                                          | TBD|
+| TBD                                          | TBD|
 
-<h2> 🤳 Connect with me:</h2>
+## Certifications
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/john-hibar
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
