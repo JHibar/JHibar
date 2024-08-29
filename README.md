@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/john-hibar/">Cybersecurity Professional</a>
+<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-hibar/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
