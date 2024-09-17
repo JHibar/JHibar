@@ -5,7 +5,7 @@ I am a U.S. Air Force veteran that is making the career change to the world of I
 
 ## Objective
 
-My love for technology and computers has brought me to the world of Cybersecurity. I would love to become a Security Operations Center (SOC) Tier 1 Anaylst and eventually move into the world of Penetration Testing and Ethical Hacking. The objective here is to put some skills and experience that I have picked up on display.
+My love for technology and computers has brought me to the world of Cybersecurity. I would love to become a Security Operations Center (SOC) Tier 1 Anaylst or something on the "Blue Team" side of things and eventually move into the world of Penetration Testing and Ethical Hacking. The objective here is to put some skills and experience that I have picked up on display.
 
 ## Skills
 | Skill                                         | Associated Project         |
