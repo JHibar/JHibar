@@ -10,7 +10,7 @@ My love for technology and computers has brought me to the world of Cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory, DHCP, Remote Access Server, Networking   | <a href="https://google.com">Home Lab Active Directory</a>|
 | TBD                                          | TBD|
 | TBD                                          | TBD|
 | TBD                                          | TBD|
