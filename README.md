@@ -10,12 +10,8 @@ My love for technology and computers has brought me to the world of Cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory, DHCP, Remote Access Server, Networking   | <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a>|
-| TBD                                          | TBD|
-| TBD                                          | TBD|
-| TBD                                          | TBD|
-| TBD                                          | TBD|
-| TBD                                          | TBD|
+| Networking, Active Directory | <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a> |
+| SIEM, EDR | SIEM Lab |
 
 ## Tools
 ### Network
