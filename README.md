@@ -10,7 +10,7 @@ My love for technology and computers has brought me to the world of Cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory, DHCP, Remote Access Server, Networking   | <a href="https://google.com">Home Lab Active Directory</a>|
+| Active Directory, DHCP, Remote Access Server, Networking   | <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a>|
 | TBD                                          | TBD|
 | TBD                                          | TBD|
 | TBD                                          | TBD|
@@ -44,6 +44,5 @@ My love for technology and computers has brought me to the world of Cybersecurit
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 ## Projects
-- Detection Lab
-- Active Directory Lab
+- <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a>
 - SOC Automation Project
