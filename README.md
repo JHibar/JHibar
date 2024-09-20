@@ -30,7 +30,7 @@ My love for technology and computers has brought me to the world of Cybersecurit
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable_Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ## Certifications
