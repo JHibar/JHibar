@@ -11,7 +11,7 @@ My love for technology and computers has brought me to the world of Cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Networking, Active Directory | <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a> |
-| SIEM, EDR | SIEM Lab |
+| Vulnerability Management | <a href="https://github.com/JHibar/VulnerabilityManagement">Vulnerability Management Lab</a> |
 
 ## Tools
 ### Network
@@ -40,4 +40,4 @@ My love for technology and computers has brought me to the world of Cybersecurit
 
 ## Projects
 - <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/JHibar/VulnerabilityManagement">Vulnerability Management Lab</a>
