@@ -10,7 +10,7 @@ My love for technology and computers has brought me to the world of Cybersecurit
 ## Projects
 |             Projects                      |               Associated Skills            |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a> | Networking, Active Directory, Powershell, Automation |
+| <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a> | Networking, Active Directory, Powershell |
 | <a href="https://github.com/JHibar/VulnerabilityManagement">Vulnerability Management Lab</a> | Vulnerability Management, Nessus Essentials, Automation |
 
 
