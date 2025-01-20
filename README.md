@@ -1,5 +1,7 @@
 # Hello, I'm John
 <a href="https://linkedin.com/in/john-hibar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2480553" style='border:none;'></iframe>
+
 
 I am a U.S. Air Force veteran that is making the career change to the world of IT and Cybersecurity. I have a profound interest in all things computers and am working on honing my skills in technology.
 
