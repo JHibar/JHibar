@@ -19,8 +19,6 @@ I am also getting into the hobby of wardriving!
 | <a href="https://github.com/JHibar/ActiveDirectory">Active Directory Lab</a> | Networking, Active Directory, Powershell |
 | <a href="https://github.com/JHibar/VulnerabilityManagement">Vulnerability Management Lab</a> | Vulnerability Management, Nessus Essentials, Automation |
 | <a href="https://github.com/JHibar/SecurityOperationsCenter">Security Operations Center Lab</a> | SIEM, SOC, Microsoft Sentinel, Azure |
-| <a href="https://github.com/JHibar/PythonRansomware">Python Ransomware</a> | Python, Ransomware |
-
 
 ## Certifications
 
