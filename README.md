@@ -3,9 +3,11 @@
 
 I am a U.S. Air Force veteran that is making the career change to the world of IT and Cybersecurity. I have a profound interest in all things computers and am working on honing my skills in technology.
 
-## Objective
+I am also getting into the hobby of wardriving!
 
-My love for technology and computers has brought me to the world of Cybersecurity. I would love to become a Security Operations Center (SOC) Tier 1 Anaylst or something on the "Blue Team" side of things and eventually move into the world of Penetration Testing and Ethical Hacking. The objective here is to put some skills and experience that I have picked up on display.
+[![WDGWars](https://wdgwars.pl/card/Hibeezy.svg)](https://wdgwars.pl/)
+
+## Objective
 
 ## Projects
 |             Projects                      |               Associated Skills            |
